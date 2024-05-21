@@ -12,7 +12,7 @@ WIP
 ### Red-teaming/pentesting tools I excel with:
 | NMAP | MetaSploit | JohnTheRipper | Hydra | WireShark | GoBuster | SQLMap |
 |-|-|-|-|-|-|-|
-|<img src="https://nmap.org/">|<img src="https://images.app.goo.gl/YDQLYaNy4BAuXXby8">|<img src="https://images.app.goo.gl/zDdkWH9omb7sd9Dd8">|<img src="https://images.app.goo.gl/DeGpxuWafzjUnyrt5">|<img src="https://images.app.goo.gl/nosQH2GzpmY5HKjq9">|<img src="https://images.app.goo.gl/6QWGuu1MN1Qcyy287">|<img src="https://images.app.goo.gl/uqqSP8sC9Th7g6wKA">|
+|<img src="/nmap.png">|<img src="/msf.png">|<img src="jtr.png">|<img src="hydra.png">|<img src="wireshark.png">|<img src="gobuster.png">|<img src="sqlmap.png">|
 
 
 <!---
