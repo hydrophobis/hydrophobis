@@ -4,6 +4,7 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn
 |-----|---|------|
 ### Not extremely skilled in:
 | JavaScript | CSS | Python3 | Bash | Batch | C# |
+|-|-|-|-|-|-|
 
 
 <!---
