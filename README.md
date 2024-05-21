@@ -1,17 +1,8 @@
 I am a Programmer X Cybersecurity enthusiast that loves to learn
-My currently known languages include:
-C
-C++
-Java
-JSON(ik its not technically but i work with it a lot)
-HTML
-
-And im ok at programming with:
-JavaScript
-Python
-C#
-Batch
-Bash
+###Languages:
+| C++ | C | HTML |
+###Not extremely skilled in:
+| JavaScript | CSS | Python3 | Bash | Batch | C# |
 
 
 <!---
