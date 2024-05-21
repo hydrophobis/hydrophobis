@@ -13,6 +13,8 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
 |-|-|-|-|-|-|-|
 |<img src="/nmap.png">|<img src="/msf.png">|<img src="jtr.jpg">|<img src="hydra.svg">|<img src="wireshark.png">|<img src="gobuster.svg">|<img src="sqlmap.png">|
 
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=camogekko&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
 
 <!---
 CamoGekko/CamoGekko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
