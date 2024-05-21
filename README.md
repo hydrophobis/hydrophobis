@@ -9,7 +9,7 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn
 |<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">|<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">|<img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">|<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">|
 
 WIP
-### Red-teaming/pentesting tools i can use
+### Red-teaming/pentesting tools I excel with:
 | NMAP | MetaSploit | JohnTheRipper | Hydra | WireShark | GoBuster | SQLMap |
 |-|-|-|-|-|-|-|
 |<img src="https://images.app.goo.gl/j9PrM1DYhSbn2tbG6">|<img src="https://images.app.goo.gl/YDQLYaNy4BAuXXby8">|<img src="https://images.app.goo.gl/zDdkWH9omb7sd9Dd8">|<img src="https://images.app.goo.gl/DeGpxuWafzjUnyrt5">|<img src="https://images.app.goo.gl/nosQH2GzpmY5HKjq9">|<img src="https://images.app.goo.gl/6QWGuu1MN1Qcyy287">|<img src="https://images.app.goo.gl/uqqSP8sC9Th7g6wKA">|
