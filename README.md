@@ -10,7 +10,7 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
 
 WIP
 ### Red-teaming/pentesting tools I excel with:
-| NMAP | MetaSploit | JohnTheRipper | Hydra | WireShark | GoBuster | SQLMap |
+| ⠀NMAP⠀ | MetaSploit | JohnTheRipper | ⠀Hydra⠀ | WireShark | GoBuster | ⠀SQLMap⠀ |
 |-|-|-|-|-|-|-|
 |<img src="/nmap.png">|<img src="/msf.png">|<img src="jtr.jpg">|<img src="hydra.svg">|<img src="wireshark.png">|<img src="gobuster.svg">|<img src="sqlmap.png">|
 
