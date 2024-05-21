@@ -1,4 +1,15 @@
 I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i am always trying to do something, you can contact me at "someonestoleriver" on discord if you have any questions or just want to know what im doing for my current project!
+<style>
+  .badge-container {
+    display: flex;
+    justify-content: center; /* Center the badges horizontally */
+    gap: 10px; /* Optional: add some space between the badges */
+  }
+  .badge-container img {
+    max-width: 100%; /* Ensure images scale down if needed */
+  }
+</style>
+
 ### Languages:
 | C++ | ⠀C ⠀| HTML |
 |-----|---|------|
@@ -13,10 +24,10 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
 |-|-|-|-|-|-|-|
 |<img src="/nmap.png">|<img src="/msf.png">|<img src="jtr.jpg">|<img src="hydra.svg">|<img src="wireshark.png">|<img src="gobuster.svg">|<img src="sqlmap.png">|
 
-<p>
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=camogekko&layout=compact&count_private=true&theme=blue-green&title_color=d5f0e5)](#)
- [![John's github stats](https://bad-apple-github-readme.vercel.app/api?username=johnmwendwa&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
-</p>
+<div class="badge-container">
+    <a href="#"><img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=camogekko&layout=compact&count_private=true&theme=blue-green&title_color=d5f0e5" alt="Top languages"></a>
+    <a href="#"><img src="https://bad-apple-github-readme.vercel.app/api?username=camogekko&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=d5f0e5" alt="Gekko's github stats"></a>
+</div>
 
 <!---
 CamoGekko/CamoGekko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
