@@ -1,5 +1,5 @@
 I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i am always trying to do something, you can contact me at "someonestoleriver" on discord if you have any questions or just want to know what im doing for my current project!
-
+<p>
 ### Languages:
 | C++ | ⠀C ⠀| HTML |
 |-----|---|------|
@@ -8,6 +8,11 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
 | JavaScript | Python3 | Bash | Batch | ⠀C#⠀|
 |-|-|-|-|-|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">|<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">|<img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">|<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">|
+
+<p style="text-align: center;">
+  <img src="your-image-url.jpg" alt="Circle PFP" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; left: 100%;">
+</p>
+</p>
 
 ### Red-teaming/pentesting tools I excel with:
 | ⠀NMAP⠀ | MetaSploit | JohnTheRipper | ⠀Hydra⠀ | WireShark | GoBuster | ⠀SQLMap⠀ |
