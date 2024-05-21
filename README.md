@@ -1,5 +1,4 @@
 I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i am always trying to do something, you can contact me at "someonestoleriver" on discord if you have any questions or just want to know what im doing for my current project!
-<p>
 ### Languages:
 | C++ | ⠀C ⠀| HTML |
 |-----|---|------|
@@ -11,7 +10,6 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
 
 <p style="text-align: center;">
   <img src="your-image-url.jpg" alt="Circle PFP" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; left: 100%;">
-</p>
 </p>
 
 ### Red-teaming/pentesting tools I excel with:
