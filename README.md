@@ -8,7 +8,6 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
 |-|-|-|-|-|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">|<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">|<img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">|<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">|
 
-WIP
 ### Red-teaming/pentesting tools I excel with:
 | ⠀NMAP⠀ | MetaSploit | JohnTheRipper | ⠀Hydra⠀ | WireShark | GoBuster | ⠀SQLMap⠀ |
 |-|-|-|-|-|-|-|
