@@ -1,14 +1,4 @@
 I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i am always trying to do something, you can contact me at "someonestoleriver" on discord if you have any questions or just want to know what im doing for my current project!
-<style>
-  .badge-container {
-    display: flex;
-    justify-content: center; /* Center the badges horizontally */
-    gap: 10px; /* Optional: add some space between the badges */
-  }
-  .badge-container img {
-    max-width: 100%; /* Ensure images scale down if needed */
-  }
-</style>
 
 ### Languages:
 | C++ | ⠀C ⠀| HTML |
@@ -27,6 +17,7 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
 <div class="badge-container">
     <a href="#"><img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=camogekko&layout=compact&count_private=true&theme=blue-green&title_color=d5f0e5" alt="Top languages"></a>
     <a href="#"><img src="https://bad-apple-github-readme.vercel.app/api?username=camogekko&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=d5f0e5" alt="Gekko's github stats"></a>
+    <a href="#"><img src="https://streak-stats.demolab.com/?user=johnmwendwa&count_private=true&theme=blue-green&title_color=d5f0e5" alt="Streak Stats"></a>
 </div>
 
 <!---
