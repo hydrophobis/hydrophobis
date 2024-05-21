@@ -1,4 +1,4 @@
-I am a Programmer X Cybersecurity enthusiast that loves to learn
+I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i am always trying to do something, you can contact me at "someonestoleriver" on discord if you have any questions or just want to know what im doing for my current project!
 ### Languages:
 | C++ | ⠀C ⠀| HTML |
 |-----|---|------|
