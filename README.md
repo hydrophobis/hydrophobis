@@ -2,7 +2,7 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn
 ### Languages:
 | C++ | C | HTML |
 |-----|---|------|
-|<img src="https://github.com/devicons/devicon/cplusplus/cplusplus-original.svg">|-|-|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">|<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">|
 ### Not extremely skilled in:
 | JavaScript | CSS | Python3 | Bash | Batch | C# |
 |-|-|-|-|-|-|
