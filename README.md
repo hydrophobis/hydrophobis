@@ -44,7 +44,7 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
 ### Red-teaming/pentesting tools I excel with:
 | ⠀NMAP⠀ | MetaSploit | JohnTheRipper | ⠀Hydra⠀ | WireShark | GoBuster | ⠀SQLMap⠀ |
 |-|-|-|-|-|-|-|
-|<img src="/nmap.png" class="round">|<img src="/msf3.png" class="round">|<img src="jtr.jpg">|<img src="hydra3.png">|<img src="wireshark.png">|<img src="gobuster.svg">|<img src="sqlmap3.png">|
+|<img src="/nmap.png" class="round">|<img src="/msf3.png" class="round">|<img src="jtr.jpg">|<img src="hydra4.png">|<img src="wireshark.png">|<img src="gobuster.svg">|<img src="sqlmap4.png">|
 
 <div class="badge-container">
     <a href="#"><img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=camogekko&layout=compact&count_private=true&theme=blue-green&title_color=d5f0e5" alt="Top languages" width=37%></a>
