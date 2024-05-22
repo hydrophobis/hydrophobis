@@ -37,7 +37,7 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=discord,gmail,github" alt="Socials">
         </a>
-        <h5>Contact my discord if you want my email for any purposes</h5>
+        <h6>Contact my discord if you want my email for any purposes</h6>
     </div>
 
 
@@ -52,6 +52,7 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
 <img src="/images/sqlmap.png" width=48px>
 </p>
 
+<h2>Miscellaneous Info:</h2>
 <div class="badge-container">
     <a href="#"><img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=camogekko&layout=compact&count_private=true&theme=blue-green&title_color=d5f0e5" alt="Top languages" width=37%></a>
     <a href="#"><img src="https://bad-apple-github-readme.vercel.app/api?username=camogekko&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=d5f0e5" alt="Gekko's github stats" width=61% left=2></a>
