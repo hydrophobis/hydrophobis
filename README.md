@@ -1,13 +1,17 @@
 I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i am always trying to do something, you can contact me at "someonestoleriver" on discord if you have any questions or just want to know what im doing for my current project!<br>
 <a href="https://github.com/users/CamoGekko/projects/2/views/2?layout=table&visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C111626033%5D">You can find my project plan here!</a>
-### Languages:
-| C++ | ⠀C ⠀| HTML |
-|-----|---|------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">|<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">|
-### Not extremely skilled in:
-| JavaScript | Python3 | Bash | Batch | ⠀C#⠀|
-|-|-|-|-|-|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">|<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">|<img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">|<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">|
+<h1>My languages:</h1>
+<h2>Lots of experience:</h2>
+[![Lots of experience](https://skillicons.dev/icons?i=c,cpp,java,gradle,maven,html,git)](https://skillicons.dev)<br>
+<h2>Some experience:</h2>
+[![Some experience](https://skillicons.dev/icons?i=js,nodejs,css,bash,npm,powershell,py,cs)](https://skillicons.dev)<br>
+<h2>Applications and Software:</h2>
+[![Apps and Software](https://skillicons.dev/icons?i=vscode,visualstudio,dotnet,gcp,unity,obsidian,githubactions)](https://skillicons.dev)
+<h2>Operating Systems:</h2>
+[![OS](https://skillicons.dev/icons?i=windows,kali,mint,debian)](https://skillicons.dev)
+<h2>Socials:</h2>
+[![Socials](https://skillicons.dev/icons?i=discord,gmail,github)](https://skillicons.dev)
+
 
 ### Red-teaming/pentesting tools I excel with:
 | ⠀NMAP⠀ | MetaSploit | JohnTheRipper | ⠀Hydra⠀ | WireShark | GoBuster | ⠀SQLMap⠀ |
