@@ -39,9 +39,10 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
         </a>
         <h6>Contact my discord if you want my email for any purposes</h6>
     </div>
+<br>
+<br>
 
-
-### Red-teaming/pentesting tools I excel with:
+<h2>Red-teaming/pentesting tools I excel with:</h2>
 <p>
 <img src="/images/nmap.png" width=48px>
 <img src="/images/msf.png" width=48px>
