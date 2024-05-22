@@ -1,6 +1,6 @@
 I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i am always trying to do something, you can contact me at "someonestoleriver" on discord if you have any questions or just want to know what im doing for my current project!<br>
 
-<link rel="stylesheet" href="example.com">
+<link rel="stylesheet" href="styles.css">
 
 <a href="https://github.com/users/CamoGekko/projects/2/views/2?layout=table&visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C111626033%5D">You can find my project plan here!</a>
 <h1>My languages:</h1>
@@ -44,7 +44,7 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
 ### Red-teaming/pentesting tools I excel with:
 | ⠀NMAP⠀ | MetaSploit | JohnTheRipper | ⠀Hydra⠀ | WireShark | GoBuster | ⠀SQLMap⠀ |
 |-|-|-|-|-|-|-|
-|<div style="width: 200px; height: 200px; background-color: lightblue; border-radius: 15px;"><img src="/nmap.png" style="border-radius: 16px;"></div>|<img src="/msf2.png" style="border-radius: 25%;">|<img src="jtr.jpg">|<img src="hydra2.png">|<img src="wireshark.png">|<img src="gobuster.svg">|<img src="sqlmap2.png">|
+|<img src="/nmap.png" class="round">|<img src="/msf2.png" class="round">|<img src="jtr.jpg">|<img src="hydra2.png">|<img src="wireshark.png">|<img src="gobuster.svg">|<img src="sqlmap2.png">|
 
 <div class="badge-container">
     <a href="#"><img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=camogekko&layout=compact&count_private=true&theme=blue-green&title_color=d5f0e5" alt="Top languages" width=37%></a>
