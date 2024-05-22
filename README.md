@@ -44,12 +44,12 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
 ### Red-teaming/pentesting tools I excel with:
 <p>
 <img src="/images/nmap.png" width=48px>
-<img src="/images/msf.png">
-<img src="/images/jtr.png">
-<img src="/images/hydra.png">
-<img src="/images/wireshark.png">
-<img src="/images/gobuster.svg">
-<img src="/images/sqlmap.png">
+<img src="/images/msf.png" width=48px>
+<img src="/images/jtr.png" width=48px>
+<img src="/images/hydra.png" width=48px>
+<img src="/images/wireshark.png" width=48px>
+<img src="/images/gobuster.svg" width=48px>
+<img src="/images/sqlmap.png" width=48px>
 </p>
 
 <div class="badge-container">
