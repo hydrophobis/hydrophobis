@@ -52,6 +52,7 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
 <img src="/images/gobuster.svg" width=48px>
 <img src="/images/sqlmap.png" width=48px>
 </p>
+<br>
 
 <h2>Miscellaneous Info:</h2>
 <div class="badge-container">
