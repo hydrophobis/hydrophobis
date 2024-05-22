@@ -50,7 +50,7 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
 </div>
 
 <a>
-    <img src="https://img.shields.io/badge/Spotify-Now_Playing-1DB954?style=flat&logo=spotify&logoColor=white&labelColor=121212&color=1DB954">
+    <img src="https://open.spotify.com/track/02oUvHd9QhVUO4YYb7t9JM?si=hivB1mXDS4CtwabgYpH7EA&context=spotify%3Aplaylist%3A4jUN0iiIvUJjwWUc0NJtVX">
 </a>
 <!---
 CamoGekko/CamoGekko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
