@@ -1,16 +1,40 @@
 I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i am always trying to do something, you can contact me at "someonestoleriver" on discord if you have any questions or just want to know what im doing for my current project!<br>
 <a href="https://github.com/users/CamoGekko/projects/2/views/2?layout=table&visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C111626033%5D">You can find my project plan here!</a>
 <h1>My languages:</h1>
-<h2>Lots of experience:</h2>
-<div>[![Lots of experience](https://skillicons.dev/icons?i=c,cpp,java,gradle,maven,html,git)](https://skillicons.dev)</div><br>
-<h2>Some experience:</h2>
-[![Some experience](https://skillicons.dev/icons?i=js,nodejs,css,bash,npm,powershell,py,cs)](https://skillicons.dev)<br>
-<h2>Applications and Software:</h2>
-[![Apps and Software](https://skillicons.dev/icons?i=vscode,visualstudio,dotnet,gcp,unity,obsidian,githubactions)](https://skillicons.dev)
-<h2>Operating Systems:</h2>
-[![OS](https://skillicons.dev/icons?i=windows,kali,mint,debian)](https://skillicons.dev)
-<h2>Socials:</h2>
-[![Socials](https://skillicons.dev/icons?i=discord,gmail,github)](https://skillicons.dev)
+    <h2>Lots of experience:</h2>
+    <div>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=c,cpp,java,gradle,maven,html,git" alt="Lots of experience">
+        </a>
+    </div>
+    <br>
+    <h2>Some experience:</h2>
+    <div>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=js,nodejs,css,bash,npm,powershell,py,cs" alt="Some experience">
+        </a>
+    </div>
+    <br>
+    <h2>Applications and Software:</h2>
+    <div>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=vscode,visualstudio,dotnet,gcp,unity,obsidian,githubactions" alt="Apps and Software">
+        </a>
+    </div>
+    <br>
+    <h2>Operating Systems:</h2>
+    <div>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=windows,kali,mint,debian" alt="OS">
+        </a>
+    </div>
+    <br>
+    <h2>Socials:</h2>
+    <div>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=discord,gmail,github" alt="Socials">
+        </a>
+    </div>
 
 
 ### Red-teaming/pentesting tools I excel with:
