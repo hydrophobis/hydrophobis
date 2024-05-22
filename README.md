@@ -1,4 +1,4 @@
-<h7>What am i listening to?</h7><a>
+<h6>What am i listening to?</h6><a>
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=317kcfdkhpwwbtslo2euvq64uxju&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false">
 </a>
 
