@@ -50,7 +50,7 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
 </div>
 
 <a>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=317kcfdkhpwwbtslo2euvq64uxju&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=317kcfdkhpwwbtslo2euvq64uxju&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" width=100%>
 </a>
 <!---
 CamoGekko/CamoGekko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
