@@ -49,6 +49,9 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
     <a href="#"><img src="https://streak-stats.demolab.com/?user=camogekko&count_private=true&theme=blue-green&title_color=d5f0e5" alt="Streak Stats" width=100%></a>
 </div>
 
+<a>
+    <img src="[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317kcfdkhpwwbtslo2euvq64uxju&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)">
+</a>
 <!---
 CamoGekko/CamoGekko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
