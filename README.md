@@ -34,6 +34,7 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=discord,gmail,github" alt="Socials">
         </a>
+        <h5>Contact my discord if you want my email for any purposes</h5>
     </div>
 
 
