@@ -43,7 +43,7 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
 
 ### Red-teaming/pentesting tools I excel with:
 <p>
-<img src="/images/nmap.png" width=64px>
+<img src="/images/nmap.png" width=48px>
 <img src="/images/msf.png">
 <img src="/images/jtr.png">
 <img src="/images/hydra.png">
