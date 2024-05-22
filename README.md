@@ -1,6 +1,6 @@
 <a>
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=317kcfdkhpwwbtslo2euvq64uxju&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false">
-</a>
+</a><h6>What am i listening to?</h6>
 
 I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i am always trying to do something, you can contact me at "someonestoleriver" on discord if you have any questions or just want to know what im doing for my current project!<br>
 
