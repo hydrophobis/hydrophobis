@@ -44,7 +44,6 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
         <h6>Contact my discord if you want my email for any purposes</h6>
     </div>
 <br>
-<br>
 
 <h2>Red-teaming/pentesting tools I excel with:</h2>
 <p>
