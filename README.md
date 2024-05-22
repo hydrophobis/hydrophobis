@@ -2,7 +2,7 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
 <a href="https://github.com/users/CamoGekko/projects/2/views/2?layout=table&visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C111626033%5D">You can find my project plan here!</a>
 <h1>My languages:</h1>
 <h2>Lots of experience:</h2>
-[![Lots of experience](https://skillicons.dev/icons?i=c,cpp,java,gradle,maven,html,git)](https://skillicons.dev)<br>
+<div>[![Lots of experience](https://skillicons.dev/icons?i=c,cpp,java,gradle,maven,html,git)](https://skillicons.dev)</div><br>
 <h2>Some experience:</h2>
 [![Some experience](https://skillicons.dev/icons?i=js,nodejs,css,bash,npm,powershell,py,cs)](https://skillicons.dev)<br>
 <h2>Applications and Software:</h2>
