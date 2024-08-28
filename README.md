@@ -7,7 +7,8 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
 <link rel="stylesheet" href="styles.css">
 
 <p>
-<a href="https://github.com/users/CamoGekko/projects/2/views/2?layout=table&visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C111626033%5D">You can find my project plan here!</a><h6>Any and all projects currently postponed for reasons i will not disclose here</h6></p>
+<a href="https://github.com/users/CamoGekko/projects/2/views/2?layout=table&visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C111626033%5D">You can find my project plan here!</a></p>
+<img src="cppfactory.jpg">
 <h1>My languages:</h1>
     <h2>Lots of experience:</h2>
     <div>
