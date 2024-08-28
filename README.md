@@ -9,7 +9,7 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
 <p>
 <a href="https://github.com/users/CamoGekko/projects/2/views/2?layout=table&visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C111626033%5D">You can find my project plan here!</a></p>
 
-<img src="images/cppfactory.jpg" class=img>
+<img src="images/cppfactory.jpg" class="img">
 
 <h1>My languages:</h1>
     <h2>Lots of experience:</h2>
