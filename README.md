@@ -22,7 +22,7 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
     <h2>Some experience:</h2>
     <div>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=js,nodejs,css,bash,npm,powershell,py,cs" alt="Some experience">
+            <img src="https://skillicons.dev/icons?i=rust,js,nodejs,css,bash,npm,powershell,py,cs" alt="Some experience">
         </a>
     </div>
     <br>
