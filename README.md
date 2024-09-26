@@ -63,9 +63,9 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
 
 <h2>Miscellaneous Info:</h2>
 <div class="badge-container">
-    <a href="#"><img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=camogekko&layout=compact&count_private=true&theme=blue-green&title_color=d5f0e5" alt="Top languages" width=70%></a>
-    <a href="#"><img src="https://bad-apple-github-readme.vercel.app/api?username=camogekko&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=d5f0e5" alt="Gekko's github stats" width=70% left=2></a>
-    <a href="#"><img src="https://streak-stats.demolab.com/?user=camogekko&count_private=true&theme=blue-green&title_color=d5f0e5" alt="Streak Stats" width=100%></a>
+    <a href="#"><img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=hydrophobis&layout=compact&count_private=true&theme=blue-green&title_color=d5f0e5" alt="Top languages" width=70%></a>
+    <a href="#"><img src="https://bad-apple-github-readme.vercel.app/api?username=hydrophobis&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=d5f0e5" alt="Gekko's github stats" width=70% left=2></a>
+    <a href="#"><img src="https://streak-stats.demolab.com/?user=hydrophobis&count_private=true&theme=blue-green&title_color=d5f0e5" alt="Streak Stats" width=100%></a>
 </div>
 <!---
 CamoGekko/CamoGekko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
