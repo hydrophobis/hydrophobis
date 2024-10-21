@@ -2,11 +2,24 @@
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=317kcfdkhpwwbtslo2euvq64uxju&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&interchange=true">
 </a>-->
 
+img[src$="#avatar"] {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  max-width: 50%;
+}
+img[src$="#image"] {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  max-width: 50%;
+}
+
 I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i am always trying to do something, you can contact me at "hydrophobis" on discord if you have any questions or just want to know what im doing for my current project!<br>
 
 <link rel="stylesheet" href="styles.css">
 
-  <a href="url"><img src="images/vscodefactory.png" height="auto" width="auto" style="border-radius:5%"></a>
+  ![Factory Image](images/vscodefactory.png)
 
 <h1>My languages:</h1>
     <h2>Lots of experience:</h2>
