@@ -6,7 +6,7 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
 
 <link rel="stylesheet" href="styles.css">
 
-<img src="images/vscodefactory.jpg" class="img">
+<img src="images/vscodefactory.png" class="img">
 
 <h1>My languages:</h1>
     <h2>Lots of experience:</h2>
@@ -26,7 +26,7 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
     <h2>Applications and Software:</h2>
     <div>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=vscode,visualstudio,intellij,dotnet,gcp,unity,obsidian,githubactions" alt="Apps and Software">
+            <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,dotnet,gcp,unity,obsidian,githubactions" alt="Apps and Software">
         </a>
     </div>
     <br>
