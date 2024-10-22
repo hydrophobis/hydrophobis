@@ -12,21 +12,21 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
     <h2>Lots of experience:</h2>
     <div>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=c,cpp,java,gradle,maven,html,git" alt="Lots of experience">
+            <img src="https://skillicons.dev/icons?i=cpp,java,gradle,maven,html,git" alt="Lots of experience">
         </a>
     </div>
     <br>
     <h2>Some experience:</h2>
     <div>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=rust,js,nodejs,css,bash,npm,powershell,py,cs" alt="Some experience">
+            <img src="https://skillicons.dev/icons?i=c,rust,js,nodejs,css,bash,npm,powershell,py" alt="Some experience">
         </a>
     </div>
     <br>
     <h2>Applications and Software:</h2>
     <div>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,dotnet,gcp,unity,obsidian,githubactions" alt="Apps and Software">
+            <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,dotnet,gcp,obsidian,githubactions" alt="Apps and Software">
         </a>
     </div>
     <br>
