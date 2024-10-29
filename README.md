@@ -33,7 +33,7 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
     <h2>Operating Systems:</h2>
     <div>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=windows,kali,mint,debian" alt="OS">
+            <img src="https://skillicons.dev/icons?i=arch,windows,kali,mint,debian" alt="OS">
         </a>
     </div>
     <br>
