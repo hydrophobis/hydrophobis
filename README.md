@@ -6,7 +6,8 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
 
 <link rel="stylesheet" href="styles.css">
 
-  ![Factory Image](images/vscodefactory.png)
+  <!--![Factory Image](images/vscodefactory.png)-->
+  ![Pointer Meme](https://devhumor.com/content/uploads/images/May2024/pointer_to_void.jpg)
 
 <h1>My languages:</h1>
     <h2>Lots of experience:</h2>
