@@ -10,24 +10,16 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
   ![Pointer Meme](https://devhumor.com/content/uploads/images/May2024/pointer_to_void.jpg)
 
 <h1>My languages:</h1>
-    <h2>Lots of experience:</h2>
     <div>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=cpp,java,gradle,maven,html,git" alt="Lots of experience">
-        </a>
-    </div>
-    <br>
-    <h2>Some experience:</h2>
-    <div>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=c,rust,js,nodejs,css,bash,npm,powershell,py" alt="Some experience">
+            <img src="https://skillicons.dev/icons?i=rust,c,java,scala,bash,powershell,asm" alt="Lots of experience">
         </a>
     </div>
     <br>
     <h2>Applications and Software:</h2>
     <div>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,dotnet,gcp,obsidian,githubactions,unreal" alt="Apps and Software">
+            <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,gcp,obsidian,githubactions,git" alt="Apps and Software">
         </a>
     </div>
     <br>
