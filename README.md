@@ -39,18 +39,6 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
     </div>
 <br>
 
-<h2>Red-teaming/pentesting tools I excel with:</h2>
-<p>
-<img src="/images/nmap.png" width=48px> 
-<img src="/images/msf.png" width=48px>
-<img src="/images/jtr.png" width=48px>
-<img src="/images/hydra.png" width=48px>
-<img src="/images/wireshark.png" width=48px>
-<img src="/images/gobuster.svg" width=48px>
-<img src="/images/sqlmap.png" width=48px>
-</p>
-<br>
-
 <h2>Miscellaneous Info:</h2>
 <div class="badge-container">
     <a href="#"><img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=hydrophobis&layout=compact&count_private=true&theme=blue-green&title_color=d5f0e5" alt="Top languages" width=70%></a>
