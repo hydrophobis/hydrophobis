@@ -12,25 +12,26 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
 <h1>My languages:</h1>
     <div>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=rust,c,java,scala,bash,powershell" alt="Lots of experience"><img src="/images/carbon.png" width=48px>
+            <img src="https://skillicons.dev/icons?i=c,java" alt="Lots of experience">
+<!--<img src="/images/carbon.png" width=48px>-->
         </a>
     </div>
     <br>
-    <h2>Applications and Software:</h2>
+<h2>Applications and Software:</h2>
     <div>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,gcp,obsidian,githubactions,git" alt="Apps and Software">
         </a>
     </div>
     <br>
-    <h2>Operating Systems:</h2>
+<h2>Operating Systems:</h2>
     <div>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=arch,windows,kali,mint,debian" alt="OS">
         </a>
     </div>
     <br>
-    <h2>Socials:</h2>
+<h2>Socials:</h2>
     <div>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=discord,gmail,github" alt="Socials">
