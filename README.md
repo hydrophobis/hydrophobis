@@ -12,7 +12,7 @@ I am a Programmer X Cybersecurity enthusiast that loves to learn new things. i a
 <h1>My languages:</h1>
     <div>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=c,java" alt="Lots of experience">
+            <img src="https://skillicons.dev/icons?i=cpp,java" alt="Lots of experience">
 <!--<img src="/images/carbon.png" width=48px>-->
         </a>
     </div>
