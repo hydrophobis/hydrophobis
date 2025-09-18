@@ -44,7 +44,6 @@ If you want to connect or talk about projects, reach me at <b>"hydrophobis"</b> 
   <a href="https://discordapp.com/users/yourid"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"></a>
   <a href="https://github.com/hydrophobis"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"></a>
 </p>
-[![Discord](https://discord.c99.nl/widget/theme-4/676954430150803477.png)](https://discordapp.com/users/676954430150803477)
 <p><small>Contact me on Discord if you need my email for collaboration or inquiries.</small></p>
 
 ---
