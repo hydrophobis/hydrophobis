@@ -27,7 +27,7 @@ If you want to connect or talk about projects, reach me at <b>"hydrophobis"</b> 
 
 ## Operating Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=arch,windows,kali,mint,debian" alt="Operating Systems">
+  <img src="https://skillicons.dev/icons?i=arch,windows,ubuntu" alt="Operating Systems">
 </p>
 
 ---
