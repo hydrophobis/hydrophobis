@@ -33,8 +33,8 @@ If you want to connect or talk about projects, reach me at <b>"hydrophobis"</b> 
 ---
 
 ## Projects
-- **AI Terminal Assistant** - An AI assistant for accomplishing tasks in Linux terminals
-- **jclass.c** – A pure C library for creating Java class files 
+- **Lambda Calculus Interpereter** - A C++ interpereter for a Lambda calculus based programming langauge
+- **jclass.c** – A pure C library for creating Java class files
 - **CS2 Cheat** – Small contributions to IMNOOBX's CS2 cheat 
 
 ---
