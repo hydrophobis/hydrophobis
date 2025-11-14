@@ -17,7 +17,7 @@ If you want to connect or talk about projects, reach me at <b>"hydrophobis"</b> 
 
 ## Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,rust,js" alt="Languages">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,py" alt="Languages">
 </p>
 
 ## Tools & Platforms
