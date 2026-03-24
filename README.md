@@ -33,7 +33,7 @@ If you want to connect or talk about projects, reach me at <b>"hydrophobis"</b> 
 ---
 
 ## Projects
-- **Lambda Calculus Interpereter** - A C++ interpereter for a Lambda calculus based programming langauge
+- **Bolt** - A C-like language with extra abstarctions
 - **jclass.c** – A pure C library for creating Java class files
 - **CS2 Cheat** – Small contributions to IMNOOBX's CS2 cheat 
 
